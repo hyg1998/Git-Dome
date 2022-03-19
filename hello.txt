@@ -14,6 +14,7 @@ heello git hyg
 heello git hyg   master change d
 heello git hyg   hot-fix test
 github test 2021-3-18
-loctial change 2022-3-19 for clone
+local change 2022-3-19 for clone
 use new ssh to sign up for github
-loctial change use ssh transform
+local change use ssh transform
+Local ssh pull set time:2022/3/19 15:51
